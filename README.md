@@ -1,4 +1,4 @@
-# Live Stream Splat Reconstruction — Group 27
+# Live Stream Splat Reconstruction — Group 27 (Work in Progress currently)
 
 This repository is building a live, single-camera reconstruction prototype. The
 first result is a **view-conditioned 2.5D coloured splat**: live RGB is
