@@ -1,4 +1,13 @@
-# Live Stream Splat Reconstruction — Group 27 (Work in Progress currently)
+# Live Stream Splat Reconstruction — Group 27
+
+## Development Status: In Progress (Active)
+
+### Roles:
+- Streamhandler
+- Three.js GUI 
+- Splat Reconstruction
+- Inference ``Contributed by Jaziel``
+- Temporal cache
 
 This repository is building a live, single-camera reconstruction prototype. The
 first result is a **view-conditioned 2.5D coloured splat**: live RGB is
